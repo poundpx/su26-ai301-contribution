@@ -1,15 +1,15 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: [Change order of execution of commands when using a shortcut]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]  
+**Student:** [Minh Nguyen]  
+**Issue:** [https://github.com/dosbox-staging/dosbox-staging/issues/3592#issuecomment-4618081410]  
+**Status:** [Phase I]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+[This is issue is interesting about a file command line that run execution file before config file where the behavior is set by the owner with a debating what the desire outcome would be. This issue open my eyes on how debating usually take place and what desire outcome result they are looking for also with priority of issue sometimes it is not important to focus on them but it's nice to have.]
 
 ---
 
